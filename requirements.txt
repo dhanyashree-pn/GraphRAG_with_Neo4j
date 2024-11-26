@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_openai
+langchain-community
+sentence-transformers
+langchain-experimental
+neo4j
+pypdf
+python-dotenv
