@@ -5,6 +5,7 @@ Graphy is an advanced document intelligence application that leverages Graph Ret
 
 ## How it Works?
 Imagine reading a document with complex relationships of data where you can:
+
 *Ask any question and get a precise answer
 
 *See how different pieces of information are connected
