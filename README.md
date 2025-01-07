@@ -48,6 +48,3 @@ streamlit run app.py
 - Real-time graph visualization
 - Medical domain-focused schema
 
-## License
-
-[Add your chosen license here]
