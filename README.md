@@ -1,18 +1,18 @@
-# NeoGraph: Realtime GraphRAG Application
+# NeoGraph: Realtime GraphRAG Application 🚀
 
-A Streamlit application that combines Neo4j graph database with LangChain and OpenAI to create queryable knowledge graphs from PDF documents.
+A Streamlit application that combines Neo4j graph database with LangChain and OpenAI to create queryable knowledge graphs from PDF documents. 🌐
 
-## Technologies Used
+## Technologies Used 💻
 
 - **Frontend**: Streamlit
 - **Database**: Neo4j Graph Database
-- **AI/ML**: 
+- **AI/ML** 🤖: 
   - OpenAI GPT-4 & Embeddings
   - LangChain for RAG implementation
-- **Document Processing**: PyPDF Loader
-- **Vector Search**: Neo4j Vector Index
+- **Document Processing** 📄: PyPDF Loader
+- **Vector Search** 🔍: Neo4j Vector Index
 
-## Schema
+## Schema 📊
 
 ```mermaid
 graph TD
@@ -23,7 +23,7 @@ graph TD
     P -->|TREATED_BY| DR[Doctor]
 ```
 
-## Quick Start
+## Quick Start ⚡
 
 1. Install dependencies:
 ```bash
@@ -35,16 +35,15 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-3. Configure:
+3. Configure ⚙️:
    - Add OpenAI API key
    - Connect Neo4j database
    - Upload PDF and start querying
 
-## Features
+## Features ✨
 
 - PDF to Knowledge Graph conversion
 - Natural language querying
 - Vector similarity search
 - Real-time graph visualization
 - Medical domain-focused schema
-
