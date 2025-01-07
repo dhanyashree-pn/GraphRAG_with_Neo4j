@@ -17,9 +17,9 @@ from neo4j import GraphDatabase
 def main():
     st.set_page_config(
         layout="wide",
-        page_title="Graphy v1"
+        page_title="NeoGraph"
         )
-    st.title("Graphy:Realtime GraphRAG App")
+    st.title("Neograph:Realtime GraphRAG App")
 
     load_dotenv()
 
